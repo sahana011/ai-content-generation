@@ -12,7 +12,7 @@ from typing import List, Tuple
 from langchain_core.documents import Document
 from langchain_groq import ChatGroq
 from langchain.prompts import ChatPromptTemplate
-from langchain.schema.output_parser import StrOutputParser
+from langchain.core.output_parser import StrOutputParser
 from dotenv import load_dotenv
 
 load_dotenv()
