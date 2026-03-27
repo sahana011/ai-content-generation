@@ -9,7 +9,7 @@ LangChain RAG pipeline that:
 
 import os
 from typing import List, Tuple
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_groq import ChatGroq
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.output_parser import StrOutputParser
