@@ -1,7 +1,7 @@
 # 💌 Wedding Card AI — Description Generator
 
 An end-to-end RAG (Retrieval-Augmented Generation) application that analyzes wedding card images and generates professional, catalog-ready descriptions using Groq LLM, LangChain, and FAISS vector search.
-
+https://ai-description-generation.streamlit.app/
 ---
 
 ## 🗂️ Folder Structure
